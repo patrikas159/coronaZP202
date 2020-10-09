@@ -39,7 +39,6 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:
         android:hint="@string/login_password"/>
 
     <Space
@@ -63,7 +62,8 @@
             android:layout_width="wrap_content"
             android:layout_height="60dp"
             android:layout_weight="1"
-            android:text="@string/login_login_btn"/>
+            android:text="@string/login_login_btn"
+            android:background="@color/colorRed"/>
 
 
         <Button
@@ -71,7 +71,8 @@
             android:layout_width="wrap_content"
             android:layout_height="60dp"
             android:layout_weight="1"
-            android:text="@string/register_register_btn" />
+            android:text="@string/register_register_btn"
+            android:background="@color/colorGrey"/>
 
     </LinearLayout>
 
