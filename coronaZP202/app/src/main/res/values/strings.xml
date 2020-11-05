@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoronaZP20-2</string>
+    <string name="app_title">infection online status</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_remember_me">Remember me</string>
+    <string name="login_login_btn">login</string>
+    <string name="register_register_btn">register</string>
+</resources>
